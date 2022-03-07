@@ -1,0 +1,31 @@
+.json-theme {
+  background: inherit;
+  line-height: 1.3;
+  color: #6c71c4;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
+.json-theme .__json-key__ {
+  color: #2aa198;
+}
+
+.json-theme .__json-value__ {
+  color: #268bd2;
+}
+
+.json-theme .__json-string__ {
+  color: #859900;
+}
+
+.json-theme .__json-boolean__ {
+  color: #dc322f;
+  font-weight: bold;
+}
+
+.json-text {
+  font-size: 0.8em;
+}
